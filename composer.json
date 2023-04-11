@@ -13,6 +13,7 @@
         "overtrue/laravel-vote": "^3.1"
     },
     "require-dev": {
+        "defstudio/pest-plugin-laravel-expectations": "^2.1",
         "fakerphp/faker": "^1.9.1",
         "laravel/breeze": "^1.20",
         "laravel/pint": "^1.0",
@@ -20,6 +21,7 @@
         "mockery/mockery": "^1.4.4",
         "pestphp/pest": "^2.0",
         "pestphp/pest-plugin-laravel": "^2.0",
+        "roave/security-advisories": "dev-latest",
         "spatie/laravel-ignition": "^2.0"
     },
     "autoload": {
